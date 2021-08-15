@@ -1,0 +1,17 @@
+key	filepath
+fohif	/rds/general/project/ukdrmultiomicsproject/live/public_datasets/single_nuclei/ximerakis_et_al/filtered_matrix/GSM3722100
+mopuh	/rds/general/project/ukdrmultiomicsproject/live/public_datasets/single_nuclei/ximerakis_et_al/filtered_matrix/GSM3722101
+vutil	/rds/general/project/ukdrmultiomicsproject/live/public_datasets/single_nuclei/ximerakis_et_al/filtered_matrix/GSM3722102
+faloh	/rds/general/project/ukdrmultiomicsproject/live/public_datasets/single_nuclei/ximerakis_et_al/filtered_matrix/GSM3722103
+fuzav	/rds/general/project/ukdrmultiomicsproject/live/public_datasets/single_nuclei/ximerakis_et_al/filtered_matrix/GSM3722104
+fidos	/rds/general/project/ukdrmultiomicsproject/live/public_datasets/single_nuclei/ximerakis_et_al/filtered_matrix/GSM3722105
+gosun	/rds/general/project/ukdrmultiomicsproject/live/public_datasets/single_nuclei/ximerakis_et_al/filtered_matrix/GSM3722106
+rasub	/rds/general/project/ukdrmultiomicsproject/live/public_datasets/single_nuclei/ximerakis_et_al/filtered_matrix/GSM3722107
+malup	/rds/general/project/ukdrmultiomicsproject/live/public_datasets/single_nuclei/ximerakis_et_al/filtered_matrix/GSM3722108
+dofot	/rds/general/project/ukdrmultiomicsproject/live/public_datasets/single_nuclei/ximerakis_et_al/filtered_matrix/GSM3722109
+hozup	/rds/general/project/ukdrmultiomicsproject/live/public_datasets/single_nuclei/ximerakis_et_al/filtered_matrix/GSM3722110
+karan	/rds/general/project/ukdrmultiomicsproject/live/public_datasets/single_nuclei/ximerakis_et_al/filtered_matrix/GSM3722111
+johiz	/rds/general/project/ukdrmultiomicsproject/live/public_datasets/single_nuclei/ximerakis_et_al/filtered_matrix/GSM3722112
+bogim	/rds/general/project/ukdrmultiomicsproject/live/public_datasets/single_nuclei/ximerakis_et_al/filtered_matrix/GSM3722113
+gavad	/rds/general/project/ukdrmultiomicsproject/live/public_datasets/single_nuclei/ximerakis_et_al/filtered_matrix/GSM3722114
+hivin	/rds/general/project/ukdrmultiomicsproject/live/public_datasets/single_nuclei/ximerakis_et_al/filtered_matrix/GSM3722115

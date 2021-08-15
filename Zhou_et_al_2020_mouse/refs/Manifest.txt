@@ -1,0 +1,13 @@
+key	filepath
+limal	/rds/general/project/ukdrmultiomicsproject/live/public_datasets/single_nuclei/zhou_et_al_mouse/filtered_matrix/GSM4173504
+vuhil	/rds/general/project/ukdrmultiomicsproject/live/public_datasets/single_nuclei/zhou_et_al_mouse/filtered_matrix/GSM4173505
+livag	/rds/general/project/ukdrmultiomicsproject/live/public_datasets/single_nuclei/zhou_et_al_mouse/filtered_matrix/GSM4173506
+pubud	/rds/general/project/ukdrmultiomicsproject/live/public_datasets/single_nuclei/zhou_et_al_mouse/filtered_matrix/GSM4173507
+pufod	/rds/general/project/ukdrmultiomicsproject/live/public_datasets/single_nuclei/zhou_et_al_mouse/filtered_matrix/GSM4173508
+mukij	/rds/general/project/ukdrmultiomicsproject/live/public_datasets/single_nuclei/zhou_et_al_mouse/filtered_matrix/GSM4173509
+mimib	/rds/general/project/ukdrmultiomicsproject/live/public_datasets/single_nuclei/zhou_et_al_mouse/filtered_matrix/GSM4173510
+rabom	/rds/general/project/ukdrmultiomicsproject/live/public_datasets/single_nuclei/zhou_et_al_mouse/filtered_matrix/GSM4173511
+biraj	/rds/general/project/ukdrmultiomicsproject/live/public_datasets/single_nuclei/zhou_et_al_mouse/filtered_matrix/GSM4173512
+jisug	/rds/general/project/ukdrmultiomicsproject/live/public_datasets/single_nuclei/zhou_et_al_mouse/filtered_matrix/GSM4173513
+gubut	/rds/general/project/ukdrmultiomicsproject/live/public_datasets/single_nuclei/zhou_et_al_mouse/filtered_matrix/GSM4173514
+ronal	/rds/general/project/ukdrmultiomicsproject/live/public_datasets/single_nuclei/zhou_et_al_mouse/filtered_matrix/GSM4173515
